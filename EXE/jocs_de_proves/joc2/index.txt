@@ -1,0 +1,6 @@
+Conte el joc de prova 2.
+index.txt
+items.csv
+ratings.test.known.csv
+ratings.test.unknown.csv
+readme.txt
